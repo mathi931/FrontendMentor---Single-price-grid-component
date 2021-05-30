@@ -7,12 +7,12 @@ body {
 	font-size: 16px;
 	font-family: 'Karla', sans-serif;
 	color: white;
-	background-color: hsl(204, 43%, 93%);
+	background-color: hsl(218, 22%, 67%);
 }
 
 /* LAYOUTS */
 .container {
-	margin-top: 10%;
+	margin-top: 5%;
 	max-width: 640px;
 	height: 100%;
 	margin-left: auto;
